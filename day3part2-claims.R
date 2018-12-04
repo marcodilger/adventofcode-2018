@@ -1,5 +1,5 @@
 library(tidyverse)
-library(stringdist)
+
 
 data <- read_lines("data/day3.txt")
 
